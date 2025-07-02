@@ -3,11 +3,11 @@
 I'm a curious and creative developer with a passion for building practical and impactful software. From cybersecurity tools to full-stack web apps and game development, I enjoy tackling diverse projects that challenge me to learn and grow.
 
 ### 🔧 Tech Interests
+- Analytics & AI
 - Cybersecurity & OSINT
-- Java + GUI Applications
+- Robotics & Hardware 
 - Databases & SQL
 - Creative Coding Projects
-- - Full-Stack Web Development (MERN)
 
 ### 🚀 Recent Projects
 - 🛡️ **TraceTrail** – An OSINT toolkit for investigating digital footprints
