@@ -7,7 +7,7 @@ I'm a curious and creative developer with a passion for building practical and i
 - Cybersecurity & OSINT
 - Robotics & Hardware 
 - Databases & SQL
-- Creative Coding Projects
+- Game developement
 
 ### 🚀 Recent Projects
 - 🛡️ **TraceTrail** – An OSINT toolkit for investigating digital footprints
@@ -18,6 +18,8 @@ I'm a curious and creative developer with a passion for building practical and i
 ### 💡 Always Learning
 I'm constantly exploring new tools, frameworks, and ideas. Whether it's building something for fun or solving real-world problems, I'm driven by curiosity and a desire to improve.
 
+### 🛠️ Languages & Tools
+C++ • JavaScript • Python • SQL • Java • HTML/CSS • React • Node.js • MongoDB • Git • Linux
 
 
 
