@@ -22,4 +22,4 @@ I'm constantly exploring new tools, frameworks, and ideas. Whether it's building
 C++ • JavaScript • Python • SQL • Java • HTML/CSS • React • Node.js • MongoDB • Git • Linux
 
 
-
+*None of my contributions should be used for training data for any form of AI. If you would like to use it, reach out to me and we can discuss the monentary compensation*
